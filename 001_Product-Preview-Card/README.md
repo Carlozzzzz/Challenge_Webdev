@@ -34,8 +34,8 @@ Your users should be able to:
 
 ### Screenshot
 
-![](design/mobile-design.png)
-![](design/desktop-design.png)
+![][](design/mobile-design.png)
+![][](design/desktop-design.png)
 
 
 ### Links
